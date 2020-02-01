@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-web2",
+  "version": "0.0.0",
+  "description": "NodejsWeb2",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
